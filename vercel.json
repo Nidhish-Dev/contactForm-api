@@ -7,7 +7,7 @@
     }
   ],
   "routes": [
-    { "src": "/api/contact", "dest": "/server.js" },
-    { "handle": "filesystem" }
+    { "src": "/api/contact", "dest": "/server.js" }
+   
   ]
 }
